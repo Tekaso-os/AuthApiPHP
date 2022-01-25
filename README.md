@@ -11,7 +11,7 @@ You will need at last php 5.6 to run this, and a SQL database
 3 - make sure u put all the files in correct directory (root)
 4 - this work with Get requests, so http://localhost/verifica_login.php?user=yourusername&password=yourpassword
 
-#Features
+# Features
 
 Database automatic encryption and Decryption when checking if the user and password is correct
 Fast Response from database
