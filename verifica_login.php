@@ -10,8 +10,8 @@ if ( ! isset( $conexao_pdo ) || ! is_object( $conexao_pdo ) ) {
 // Verifica se os campos de usuário e senha existem
 // E se não estão em branco
 if ( 
-	isset ( $user ) && 
-	isset ( $password )   &&
+  isset ( $user ) && 
+  isset ( $password ) &&
   ! empty ( $user ) &&
   ! empty ( $password ) 
 ) {
